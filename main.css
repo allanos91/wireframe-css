@@ -8,3 +8,23 @@
     display: flex;
     justify-content: space-between;
 }
+
+.nav__lower {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.content {
+    text-align:center
+    
+}
