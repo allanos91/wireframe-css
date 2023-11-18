@@ -25,6 +25,10 @@ a:hover {
 }
 
 .content {
-    text-align:center
-    
+    text-align:center;
+    margin: auto;
+}
+
+.content p{
+    text-align: justify;
 }
