@@ -1,0 +1,10 @@
+.upper__left {
+    height: 10px;
+    /* display: flex; */
+    justify-content: start;
+}
+
+.nav__upper {
+    display: flex;
+    justify-content: space-between;
+}
